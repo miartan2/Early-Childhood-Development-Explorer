@@ -31,4 +31,4 @@ This Shiny app helps users examine global differences in early learning resource
 
 ## Data
 Exact csv can be found in `data/`  
-Data were compiled and cleaned from [UNICEF's Early Childhood Development datset](https://www.unicef.org/early-childhood-development)
+Data were compiled and cleaned from [UNICEF's Early Childhood Development dataset](https://www.unicef.org/early-childhood-development)
